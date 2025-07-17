@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Kadhavai Thirandhaye",
+    "movie": "Sweetheart",
+    "artist": "Yuvan Shankar Raja",
+    "year": "2025",
+    "image": "assets/images/kadhavai.jpg",
+    "link": "songs/kadhavai-thirandhaye.html"
+  },
+  {
+    "title": "Jinguchaa",
+    "movie": "Thug Life",
+    "artist": "A.R. Rahman",
+    "year": "2025",
+    "image": "assets/images/jinguchaa.jpg",
+    "link": "songs/jinguchaa.html"
+  }
+]
